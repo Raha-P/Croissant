@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+.explanation {
+    text-align: center;
+    font-size: 17px;
+}
+.links {
+    display: flex;
+    justify-content: center;
+}
+.thisisforlinks {
+    margin: 10px;
+    color: rgb(73, 134, 24);
+}
+body {
+    background-color: rgb(235, 223, 153);
+}
